@@ -4,22 +4,22 @@
   The purpose of this project was to take information from the NYCcitiBike service and show investors how it has been successful. With this inforamtion, we hope to start/demostrate that the same sort of bike-sharing program in Des Moines, Iowa is a solid business proposal.
 
 ## Results:
-  To view my tableu story, please follow the link provided:
+  ### To view my tableu story, please follow the link provided:
    https://public.tableau.com/app/profile/madi.madison/viz/Challenge_16330456222790/Story1?publish=yes
 
- The graph below titled Checkout Times for Users, shows the total times bikes were checked out for, with the majority of bikes checked out for about 6 hours in total:
+ - The graph below titled Checkout Times for Users, shows the total times bikes were checked out for, with the majority of bikes checked out for about 6 hours in total:
  
 ![Story 1](https://user-images.githubusercontent.com/84158312/135735458-21065213-8916-4b93-b5ec-e3f30bfb229f.png)
 
-The graph below titled Checkout Times by Gender demostrated that men outrank women in the total amount of time that bikes are checked out for but for all genders, the average longest time was skewed to 5 hours:
+- The graph below titled Checkout Times by Gender demostrated that men outrank women in the total amount of time that bikes are checked out for but for all genders, the average longest time was skewed to 5 hours:
 
 ![Story 1 (1)](https://user-images.githubusercontent.com/84158312/135735512-f347a5e2-3926-4814-8ff1-657694a1414e.png)
  
- The graph below titled Trips by Weekday for each Hour, shows that the most popular times for bikes to be rented are in the morning between 7 AM and 10 AM, most likely for peoples daily commutes to work, and 5 PM to 7 PM, also most likely for people on their commutes back home. The weekend, expecially Saturdays seems to be in general, a very busy day with many bike rentals thorought the day between 9 AM and 7 PM.:
+ - The graph below titled Trips by Weekday for each Hour, shows that the most popular times for bikes to be rented are in the morning between 7 AM and 10 AM, most likely for peoples daily commutes to work, and 5 PM to 7 PM, also most likely for people on their commutes back home. The weekend, expecially Saturdays seems to be in general, a very busy day with many bike rentals thorought the day between 9 AM and 7 PM.:
  
 ![Story 1 (2)](https://user-images.githubusercontent.com/84158312/135735618-4e3cf296-88bf-44c2-ac14-554c025fcdea.png)
 
-The graph below titled Trips By Gender(Weekday per Hour), shows the same sort of timewise trend demostrated in the previous graph, as well as showing that their customer demographics skew more towards men:
+- The graph below titled Trips By Gender(Weekday per Hour), shows the same sort of timewise trend demostrated in the previous graph, as well as showing that their customer demographics skew more towards men:
 
 ![Story 1 (3)](https://user-images.githubusercontent.com/84158312/135735759-d4233f7d-a79b-497e-8b63-ff921e001717.png)
  
@@ -40,5 +40,9 @@ The graph below titled Trips By Gender(Weekday per Hour), shows the same sort of
 ![Story 1 (7)](https://user-images.githubusercontent.com/84158312/135735772-a69f2ac6-4ce3-46ff-a418-a9d6ff7afe63.png)
 
 ## Summary:
-
+ All in all, this was a deep dive into the data provided from the citiBike bike rental service in New York City, New York.
+ There is a lot of data provided that could be mixed and matched to tell more information about the customer base.
+Two ideas come to mind:
+       - How long the average trip duration potentially differs between the genders.
+       - How long the average trip duration possibly differs between subscribers and customers without a subscription.
 
